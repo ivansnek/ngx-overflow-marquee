@@ -1,0 +1,28 @@
+{
+  "generator-ngx-library": {
+    "version": "5.3.0",
+    "authorName": "Ivan Eusebio",
+    "authorEmail": "ivaneusebioperez@gmail.com",
+    "githubUsername": "ivansnek",
+    "githubRepoName": "ngx-overflow-marquee",
+    "projectName": "ngx-overflow-marquee",
+    "projectVersion": "0.0.1",
+    "projectDescription": "Creates a marquee efect when content overflows",
+    "projectKeywords": [
+      "marquee",
+      " angular"
+    ],
+    "ngVersion": "4.0.0",
+    "ngModules": [
+      "core",
+      "common"
+    ],
+    "otherDependencies": [],
+    "dependenciesRange": "^",
+    "ngPrefix": "iv",
+    "useGreenkeeper": false,
+    "useCompodoc": true,
+    "enforceNgGitCommitMsg": false,
+    "exclusions": []
+  }
+}
